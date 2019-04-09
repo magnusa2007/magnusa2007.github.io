@@ -1,0 +1,31 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="o.dk" resolutions="1x" timestamp="1554829294052">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="223649121" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="pacman.html" crc="280529716" seo="true" mt="1554479219000"/>
+    <file name="mutilateadoll2.html" crc="4084277837" seo="true" mt="1554480127000"/>
+    <file name="donkeykong.html" crc="4095714127" seo="true" mt="1554482321000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pacman.jpg" crc="3844427874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo.jpg" crc="428852447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="donkey kong.jpg" crc="4026588838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="526975915" seo="true" mt="1554828757162" redirect="true"/>
+</manifest>
